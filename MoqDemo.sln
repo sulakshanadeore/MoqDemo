@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoqDemo", "MoqDemo\MoqDemo.csproj", "{609B92D6-D9C6-443F-89C3-97CD50777C44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibraryForMoqAndNunit", "CalculatorLibraryForMoqAndNunit\CalculatorLibraryForMoqAndNunit.csproj", "{A7B2A445-20A9-4ECD-8529-D238BC16D7C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{609B92D6-D9C6-443F-89C3-97CD50777C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609B92D6-D9C6-443F-89C3-97CD50777C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609B92D6-D9C6-443F-89C3-97CD50777C44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609B92D6-D9C6-443F-89C3-97CD50777C44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B2A445-20A9-4ECD-8529-D238BC16D7C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B2A445-20A9-4ECD-8529-D238BC16D7C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B2A445-20A9-4ECD-8529-D238BC16D7C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B2A445-20A9-4ECD-8529-D238BC16D7C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FD6D57B-BFF2-4C04-B3E7-1E2F8C69F821}
+	EndGlobalSection
+EndGlobal
